@@ -31,7 +31,7 @@ I am Ansh Sanatani, a passionate Blockchain Developer dedicated to building dece
   
 ## Projects
 
-### 1. [Project Name]
+### 1. [Bitcoin]
 
 **Description:** A brief overview of the project, its purpose, and the problem it addresses.
 
