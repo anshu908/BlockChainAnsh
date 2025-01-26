@@ -1,4 +1,4 @@
-# BlockChainAnsh
+# 𝐀𝐍𝐒𝐇-𝐁𝐋𝐎𝐂𝐊-𝐂𝐇𝐀𝐈𝐍
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
@@ -7,7 +7,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-
 
 
 Welcome to **BlockChainAnsh**, a portfolio showcasing my journey and projects as a Blockchain Developer.
@@ -62,7 +61,20 @@ I am Ansh Sanatani, a passionate Blockchain Developer dedicated to building dece
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
 
-   
+## Cloning This Repository
+
+To clone this repository and explore the projects, use the following command:
+
+```bash
+git clone https://github.com/anshu908/BlockChainAnsh.git
+```
+
+After cloning, navigate into the project directory:
+
+```bash
+cd src
+```
+
 ## Contact
 
 - **Email:** [AnshBlockchain](anshppt19@gmail.com)
@@ -84,4 +96,3 @@ Feel free to explore the repository and reach out if you have any questions or c
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-
