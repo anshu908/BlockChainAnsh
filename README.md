@@ -39,7 +39,7 @@ I am Ansh Sanatani, a passionate Blockchain Developer dedicated to building dece
 
 **Live Demo:** [𝐀𝐧𝐬𝐡𝐁𝐥𝐨𝐜𝐤𝐂𝐡𝐚𝐢𝐧](https://block-chain-ansh.vercel.app/)
 
-**Source Code:** [https://github.com/anshu908/BlockChainAnsh/]
+**Source Code:** [ᗩᑎՏᕼ](https://github.com/anshu908/BlockChainAnsh/)
 
 ### 2. [Eᴜᴛʜᴇʀɪᴜᴍ]
 
@@ -67,13 +67,18 @@ I am Ansh Sanatani, a passionate Blockchain Developer dedicated to building dece
 
 - **Email:** [AnshBlockchain](anshppt19@gmail.com)
 - **Instagram:** [anshopi__](https://instagram.com/anshopi__/)
-- **Telegram:** [Anshu908](https://github.com/anshu908)
+- **Telegram:** [Anshu908](https://t.me/cyber_ansh)
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
 
+<p align="center"><a href="https://t.me/ans_X_bot"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/ansh_hack"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
 
 Feel free to explore the repository and reach out if you have any questions or collaboration opportunities!
 
