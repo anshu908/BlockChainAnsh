@@ -76,9 +76,9 @@ cd src
 
 ## Contact
 
-- **Email:** [AnshBlockchain](anshppt19@gmail.com)
-- **Instagram:** [anshopi__](https://instagram.com/anshopi__/)
-- **Telegram:** [Anshu908](https://t.me/cyber_ansh)
+- [**Email:**](anshppt19@gmail.com)
+- [**Instagram**](https://instagram.com/anshopi__/)
+- [**Telegram:**](https://t.me/cyber_ansh)
 
 ---
 
